@@ -7,6 +7,9 @@
  * [Objective](#objective)
  * [Metrics](#metrics)
  * [Instructions on How to Interact With the Project](#instructions-of-how-to-interact-with-project)
+
+### Libraries Used:
+
  
 ### Project Overview
 The project entails analyzing demographics data for customers of a mail-order sales company in Germany and comparing it with demographics information for the general population. The aim is to utilize unsupervised learning techniques for customer segmentation, identifying segments that best represent the core customer base of the company. Subsequently, this segmentation model will be applied to a third dataset containing demographics information for targets of a marketing campaign for the company. The goal is to predict which individuals are most likely to convert into customers. The datasets used are provided by Bertelsmann Arvato Analytics, offering a real-life data science task.
