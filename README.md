@@ -6,7 +6,6 @@
  * [Problem Statement](#problem-statement)
  * [Objective](#objective)
  * [Metrics](#metrics)
- * [Instructions on How to Interact With the Project](#instructions-of-how-to-interact-with-project)
 
 ### Libraries Used:
  *  numpy==1.23.5
