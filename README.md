@@ -9,6 +9,13 @@
  * [Instructions on How to Interact With the Project](#instructions-of-how-to-interact-with-project)
 
 ### Libraries Used:
+ *  numpy==1.23.5
+ *  pandas==1.5.2
+ *  matplotlib==3.7.2
+ *  seaborn==0.12.2
+ *  sklearn==1.2.0
+ *  kmodes==0.12.2
+ *  xgboost==2.0.3
 
  
 ### Project Overview
