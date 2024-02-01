@@ -1,5 +1,6 @@
-# Customer Segmentation Report for Arvato Financial Services
 
+# Customer Segmentation Report for Arvato Financial Services
+## BLOG POST: https://fahadalaraik.medium.com/customer-segmentation-report-for-arvato-financial-services-12b9f1ee0bfe
 ## Table of Contents
  * [Project Overview](#project-overview)
  * [Problem Statement](#problem-statement)
